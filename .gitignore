@@ -3,3 +3,4 @@ simple_quart_app/myvenv
 simple_streaming/myvenv
 additional_info_when_streaming/myvenv4
 openai_reasoning_models/myvenv5
+azure_openai_reasoning_models/myvenv5
