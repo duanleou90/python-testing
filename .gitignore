@@ -8,3 +8,5 @@ azure_openai_reasoning_models/myvenv5
 simple_quart_app/.idea/
 openai_simple_chat_completions/myvenv7/
 openai_simple_chat_completions/.idea/
+openai_streaming_chat_completions/myvenv7/
+openai_streaming_chat_completions/.idea/
