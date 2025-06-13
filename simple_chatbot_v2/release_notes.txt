@@ -1,0 +1,2 @@
+- access urls by zenrows
+- crawl data in parallel
